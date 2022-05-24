@@ -1,5 +1,5 @@
 # RSA
-//Mind Your Ps Qs
+#Mind Your Ps Qs
 
 from Crypto.Util.number import inverse,long_to_bytes
 
